@@ -1,4 +1,4 @@
-#🚥 Projeto: Sistema de Semáforos Sincronizados
+# 🚥 Projeto: Sistema de Semáforos Sincronizados
 
 Este projeto envolve um sistema de gerenciamento de tráfego criado com **Arduino**. A finalidade é controlar de maneira segura e automática a interseção entre veículos e pedestres.
 
