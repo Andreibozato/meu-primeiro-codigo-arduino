@@ -19,7 +19,8 @@ Este projeto foi desenvolvido e testado de forma virtual, sem a necessidade de c
 
 * **Software:** [SimulIDE](https://www.simulide.com/)
 * **Placa Simulada:** Arduino Uno
-* **Componentes Virtuais:** LEDs para sinalização de tráfego.
+* **Componentes Virtuais:** 
+  * LEDs para sinalização de tráfego.
   * Resistores virtuais.
   * Painel de conexões do simulador.
 <img width="678" height="358" alt="image" src="https://github.com/user-attachments/assets/47fcbd11-d402-421b-8ee0-fcbac526638a" />
