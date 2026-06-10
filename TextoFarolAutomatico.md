@@ -22,6 +22,7 @@ Este projeto foi desenvolvido e testado de forma virtual, sem a necessidade de c
 * **Componentes Virtuais:** LEDs para sinalização de tráfego.
   * Resistores virtuais.
   * Painel de conexões do simulador.
+<img width="678" height="358" alt="image" src="https://github.com/user-attachments/assets/47fcbd11-d402-421b-8ee0-fcbac526638a" />
 
 ---
 *Projeto desenvolvido para fins de estudo sobre lógica de programação e eletrônica.*
