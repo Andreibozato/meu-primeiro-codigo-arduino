@@ -27,7 +27,7 @@ This project was developed and tested virtually, without the need for physical c
 ## 📁 Project Structure
 
 This is how the project files are organized:
-
+```text
 ```Andreibozato
 ├── CircuitInSimulIDE/                    # Main folder containing the application source code in SimuIIDE
 │   ├── arduino_semaforo_pedestre.sim1      
